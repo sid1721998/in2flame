@@ -5,7 +5,7 @@ A mission-critical command-and-control system for wildfire emergency services ac
 **Designed and developed by Tomislav Vrbicic**
 
 ![IN2Flame Dashboard](https://img.shields.io/badge/Version-2.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Node](https://img.shields.io/badge/Node-20+-brightgreen) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-
+<img src="ScreenshotFire.png" alt="My Photo">
 ## Features
 
 - **Real-time Satellite Fire Detection** - Integration with NASA FIRMS, EFFIS, and EUMETSAT MTG Active Fire Monitoring
